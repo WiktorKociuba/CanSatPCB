@@ -1812,12 +1812,6 @@
 		(uuid "23e9159b-dee7-4a08-8f8a-491a2a21d2fb")
 	)
 	(junction
-		(at 119.38 71.12)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "28435900-865f-4473-bfc6-510d0d1a3275")
-	)
-	(junction
 		(at 234.95 48.26)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1924,6 +1918,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a242a5ef-ca33-4d51-8ad0-d2c8fc2f00cd")
+	)
+	(junction
+		(at 119.38 71.12)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b11b70e9-30b8-4988-b9d4-ad6b4259d14d")
 	)
 	(junction
 		(at 190.5 48.26)
@@ -2199,16 +2199,6 @@
 	)
 	(wire
 		(pts
-			(xy 109.22 71.12) (xy 119.38 71.12)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "28028322-f7ca-4d51-86d0-9352a2f88eae")
-	)
-	(wire
-		(pts
 			(xy 185.42 125.73) (xy 195.58 125.73)
 		)
 		(stroke
@@ -2316,6 +2306,16 @@
 			(type default)
 		)
 		(uuid "360b3b14-a221-4d40-a741-fc47c770739c")
+	)
+	(wire
+		(pts
+			(xy 119.38 68.58) (xy 119.38 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3cae8c10-46fa-4f67-becb-bc80cfcce7c0")
 	)
 	(wire
 		(pts
@@ -2436,6 +2436,16 @@
 			(type default)
 		)
 		(uuid "55f59f6b-d74b-4c37-b31e-7ae0bc1dea4f")
+	)
+	(wire
+		(pts
+			(xy 120.65 68.58) (xy 119.38 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "56898ec6-efb4-4fe2-bb3d-5414330a3ad3")
 	)
 	(wire
 		(pts
@@ -2579,7 +2589,7 @@
 	)
 	(wire
 		(pts
-			(xy 119.38 71.12) (xy 139.7 71.12)
+			(xy 109.22 71.12) (xy 119.38 71.12)
 		)
 		(stroke
 			(width 0)
@@ -3259,6 +3269,16 @@
 	)
 	(wire
 		(pts
+			(xy 119.38 71.12) (xy 139.7 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f6a1147a-daa2-421d-b2ff-2c705bc38f99")
+	)
+	(wire
+		(pts
 			(xy 121.92 107.95) (xy 139.7 107.95)
 		)
 		(stroke
@@ -3266,16 +3286,6 @@
 			(type default)
 		)
 		(uuid "fc5eb3dd-920c-4a86-964d-4ba10bdb1636")
-	)
-	(wire
-		(pts
-			(xy 119.38 68.58) (xy 119.38 71.12)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fc8be1a2-3d62-4a37-b9e8-dc9e979568d3")
 	)
 	(wire
 		(pts
@@ -3405,7 +3415,7 @@
 	)
 	(hierarchical_label "~{RST}"
 		(shape input)
-		(at 119.38 68.58 90)
+		(at 120.65 68.58 0)
 		(effects
 			(font
 				(size 1.27 1.27)
