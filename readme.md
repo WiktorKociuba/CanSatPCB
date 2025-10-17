@@ -1,5 +1,4 @@
 # Team ApolLO's CanSat PCBs
----
 The mainboard features:
 - **RP2350A** MCU 
 - **W25Q64FVSSIG** flash memory
