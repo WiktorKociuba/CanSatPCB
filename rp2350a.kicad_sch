@@ -7,7 +7,7 @@
 	(title_block
 		(title "MCU - RP2350A")
 		(date "2025-10-16")
-		(rev "1.0.0")
+		(rev "1.0.2")
 		(company "Team ApolLO")
 		(comment 1 "Author: Wiktor Kociuba")
 	)
