@@ -5,6 +5,7 @@ The mainboard features:
 - **Waveshare 23721** for GPS signal
 - **E220-900T22D** LoRa module
 - **MPU-6050** gyroscope and accelerometer
+- **BMP 280** barometer and thermometer
 - **Tower Pro Micro Servo 9g** for parachute cut-off
 - Two **linear regulators** - one for **3V3** and one for **5V** 
 - **USB-C connector**
