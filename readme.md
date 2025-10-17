@@ -11,7 +11,7 @@ The mainboard features:
 - **USB-C connector**
 - **BOOTSEL** and **RESET** buttons
 - Status **LED**
-- **Buzzer** for easier recovery.
+- **Buzzer** for easier recovery
 \
 ![Mainboard schematic](https://raw.githubusercontent.com/WiktorKociuba/CanSatPCB/refs/heads/main/schematics/CanSat.svg)
 ![MCU schematic](https://raw.githubusercontent.com/WiktorKociuba/CanSatPCB/refs/heads/main/schematics/CanSat-RP2350A.svg)
